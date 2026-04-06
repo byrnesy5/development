@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# uv
+.python-version
+
+# Data
+data/
+
+# OS
+.DS_Store
