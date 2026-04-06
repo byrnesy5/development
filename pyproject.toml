@@ -9,3 +9,8 @@ dependencies = [
     "plotly>=6.6.0",
     "statsbombpy>=1.17.0",
 ]
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.8.2",
+]
