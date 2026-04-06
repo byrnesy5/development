@@ -11,6 +11,7 @@ All data comes from the [StatsBomb Open Data](https://github.com/statsbomb/open-
 | Notebook | Description |
 |---|---|
 | [00_data_exploration.ipynb](00_data_exploration.ipynb) | Documents available competitions, matches, lineups, events, and 360 freeze frame data |
+| [01_la_liga_eda.ipynb](01_la_liga_eda.ipynb) | In-depth EDA of La Liga data — team/player aggregations, shot & xG analysis, pass stats, match tempo, home vs away |
 
 More notebooks will be added as different ML techniques are applied to the dataset.
 
